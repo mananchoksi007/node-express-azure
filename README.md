@@ -38,7 +38,7 @@ Click the button below to deploy an Azure Web App for Linux. This will create a 
     <img src="http://azuredeploy.net/deploybutton.png"/>
 </a>
 
-Direct URL to Json Template : https://raw.githubusercontent.com/mikepfeiffer/node-express-azure/master/azuredeploy.json
+Direct URL to Json Template : https://github.com/mananchoksi007/AzureDeployTemplates/blob/master/AzureDeploy.json
 
 ## Deploy the App Continuously with Azure DevOps:
 Follow my step-by-step guide: [Build Your First CI/CD Pipeline using Azure DevOps](https://mikepfeiffer.io/azure-devops-pipeline.html)
